@@ -5,7 +5,7 @@
 <h1 align="center">AI/ML Enthusiast</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubham-doshi126/"><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shubham-doshi-/"><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="mailto:shubhamdoshi126@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;
 </p>
 
